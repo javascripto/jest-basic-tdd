@@ -1,0 +1,11 @@
+{
+  "name": "tdd-jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "@types/jest": "^25.2.1"
+  }
+}
